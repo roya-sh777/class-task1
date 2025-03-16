@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Nie7nLx/Nw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Roya\\Desktop\\methods\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Roya\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.14\\microsoft.dotnet.ilcompiler.8.0.14.nupkg.sha512",
+    "C:\\Users\\Roya\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.14\\microsoft.net.illink.tasks.8.0.14.nupkg.sha512",
+    "C:\\Users\\Roya\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.14\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
